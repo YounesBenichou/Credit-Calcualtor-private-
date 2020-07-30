@@ -1,6 +1,7 @@
 # Credit-Calcualtor
 
 Project : Credit Calculator
+
 From : JetBrains Academy 
 
 Learning outcomes : 
