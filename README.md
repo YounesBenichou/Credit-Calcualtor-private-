@@ -18,7 +18,7 @@ n	=	number of periods ,
 ## Differentiate payment 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=Dm = \frac{P}{n} +i*( P - \frac{\left ( P* (m - 1) \right )}{n})">
+<img src="https://render.githubusercontent.com/render/math?math=Dm = \frac{P}{n} * i *( P - \frac{\left ( P* (m - 1) \right )}{n})">
 
 Dm = mth differentiated payment;
 
